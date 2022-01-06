@@ -17,6 +17,7 @@
   /* background-position: top; */
   /* background-size: auto; */
   /* min-height: 100vh; */
+  height: fit-content;
   background: url("../images/background_svg.svg");
 }
 
